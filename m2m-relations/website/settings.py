@@ -76,8 +76,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'netology_m2m_relations',
-        'USER': 'flores',
-        'PASSWORD': 'zxczxc',
+        'USER': 'posgres',
+        'PASSWORD': '280468Br@',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ru'
 
 TIME_ZONE = 'UTC'
 
